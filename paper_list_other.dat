@@ -1,0 +1,23 @@
+<?
+
+$PaperTitleO[0]="Protoplanetary Disc Evolution and Dispersal";
+$PaperLinkO[0]="#";
+$PaperAuthorO[0]="<B>Owen, J. E. </b>";
+$PaperPageO[0]="2011 PhD Thesis <i>IoA, University of Cambridge</i>";
+
+$PaperTitleO[1]="Radio flare from FF Tau";
+$PaperLinkO[1]="http://adsabs.harvard.edu/abs/2012ATel.4294....1S";
+$PaperAuthorO[1]="Scaife, A. M. M.;<B> Owen, J. E. </b>; Ercolano, B. & Rumsey, C.";
+$PaperPageO[1]="2012, <i>The Astronomer's Telegram</i>, 4294";
+
+$PaperTitleO[2]="Radiative Transfer in Star Formation: Testing FLD & Hybrid Methods";
+$PaperLinkO[2]="http://adsabs.harvard.edu/abs/2012arXiv1208.6243O";
+$PaperAuthorO[2]="<B> Owen, J. E. </b>; Ercolano, B. & Clarke, C. J.";
+$PaperPageO[2]="2012, <i>proceedings of 'The Labyrinth of Star Formation'</i>";
+
+$PaperTitleO[3]="Magnetically Controlled Outflows from Planets";
+$PaperLinkO[3]="http://adsabs.harvard.edu/abs/2014arXiv1409.6544A";
+$PaperAuthorO[3]="Adams, F. C. & <b> Owen, J. E. </b>";
+$PaperPageO[3]="2014, <i> proceedings of 'Cool Stars 18'</i>";
+
+?>

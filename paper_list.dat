@@ -1,0 +1,234 @@
+<?
+$PaperTitle[0]="Radiation-hydrodynamic models of X-ray and EUV
+    photoevaporating protoplanetary discs";
+$PaperLink[0]="http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2010MNRAS.401.1415O&db_key=AST&link_type=ABSTRACT&high=4e949e3d0706716";
+$PaperAuthor[0]="<B>Owen, J. E.</B>; Ercolano, B.; Clarke, C. J. & Alexander, R. D.";
+$PaperPage[0]="2010 MNRAS <b>401</b> 1415";
+
+
+$PaperTitle[1]="Theoretical spectra of photoevaporating protoplanetary
+    discs: an atlas of atomic and low-ionization emission lines";
+$PaperLink[1]="http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2010MNRAS.406.1553E&db_key=AST&link_type=ABSTRACT&high=4e949e3d0706716";
+$PaperAuthor[1]="Ercolano, B. & <b>Owen, J. E.</b>";
+$PaperPage[1]="2010 MNRAS <b>406</b> 1553";
+
+
+$PaperTitle[2]="The JCMT Legacy Survey of the Gould Belt: a first look
+    at Serpens with HARP";
+$PaperLink[2]="http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2010MNRAS.409.1412G&db_key=AST&link_type=ABSTRACT&high=4e949e3d0706716";
+$PaperAuthor[2]="Graves, S. F.; Richer, J. S.; Buckle, J. V.;
+    Duarte-Cabral, A.; Fuller, G. A.; Hogerheijde, M. R.; <b>Owen,
+    J. E.</b>; Brunt, C.; Butner, H. M.; Cavanagh, B.; Chrysostomou,
+    A.; Curtis, E. I.; Davis, C. J.; Etxaluze, M.; Francesco, J. Di;
+    Friberg, P.; Friesen, R. K.; Greaves, J. S.; Hatchell, J.;
+    Johnstone, D.; Matthews, B.; Matthews, H.; Matzner, C. D.; Nutter,
+    D.; Rawlings, J. M. C.; Roberts, J. F.; Sadavoy, S.; Simpson,
+    R. J.; Tothill, N. F. H.; Tsamis, Y. G.; Viti, S.; Ward-Thompson,
+    D.; White, G. J.; Wouterloot, J. G. A. & Yates, J.";
+$PaperPage[2]="2010 MNRAS <b>409</b> 1412";
+
+$PaperTitle[3]="The imprint of photoevaporation on edge-on discs";
+$PaperLink[3]="http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2011MNRAS.411.1104O&db_key=AST&link_type=ABSTRACT&high=4e949e3d0706716";
+$PaperAuthor[3]="<b>Owen, J. E.</b>; Ercolano, B. & Clarke, C. J.";
+$PaperPage[3]="2011 MNRAS <b>411</b> 1104";
+
+$PaperTitle[4]="Protoplanetary disc evolution and dispersal: the
+    implications of X-ray photoevaporation";
+$PaperLink[4]="http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2011MNRAS.412...13O&db_key=AST&link_type=ABSTRACT&high=4e949e3d0706716";
+$PaperAuthor[4]="<b>Owen, J. E.</b>; Ercolano, B. & Clarke, C. J.";
+$PaperPage[4]="2011 MNRAS <b>412</b> 13";
+
+$PaperTitle[5]="The Photoevaporative Wind from the Disk of TW Hya";
+$PaperLink[5]="http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2011ApJ...736...13P&db_key=AST&link_type=ABSTRACT&high=4e949e3d0706716";
+$PaperAuthor[5]="Pascucci, I.; Sterzik, M.; Alexander, R. D.; Alencar,
+    S. H. P.; Gorti, U.; Hollenbach, D.; <b>Owen, J. E.</b>; Ercolano,
+    B. & Edwards, S.";
+$PaperPage[5]="2011 ApJ <b>736</b> 13";
+
+$PaperTitle[6]="On the lifetime of discs around late-type stars";
+$PaperLink[6]="http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2011MNRAS.416..439E&db_key=AST&link_type=ABSTRACT&high=4e949e3d0706716";
+$PaperAuthor[6]="Ercolano, B.; Bastian, N.; Spezzi, L. & <b>Owen,
+    J. E.</b>";
+$PaperPage[6]="2011 MNRAS <b>416</b> 439";
+
+$PaperTitle[7]="On the theory of disc photoevaporation";
+$PaperLink[7]="http://adsabs.harvard.edu/abs/2011arXiv1112.1087O";
+$PaperAuthor[7]="<b>Owen, J. E.</b>; Clarke, C. J. & Ercolano, B.";
+$PaperPage[7]="2012 MNRAS <b>422</b> 1880";
+
+$PaperTitle[8]="Planetary evaporation by UV & X-ray radiation: basic hydrodynamics";
+$PaperLink[8]="http://adsabs.harvard.edu/abs/2012arXiv1206.2367O";
+$PaperAuthor[8]="<b>Owen, J. E.</b> & Jackson, A. P.";
+$PaperPage[8]="2012 MNRAS <b>425</b> 2931";
+
+$PaperTitle[9]="Two populations of transition discs?";
+$PaperLink[9]="http://adsabs.harvard.edu/abs/2012arXiv1205.5564O";
+$PaperAuthor[9]="<b>Owen, J. E.</b> & Clarke, C. J.";
+$PaperPage[9]="2012 MNRAS Letters <b>426</b> L91";
+
+$PaperTitle[10]="The interplay between X-ray photoevaporation and planet formation";
+$PaperLink[10]="http://adsabs.harvard.edu/abs/2013arXiv1301.3015R";
+$PaperAuthor[10]="Rosotti, G. P.; Ercolano, B.; <b>Owen, J. E.</b> & Armitage, P. J.";
+$PaperPage[10]="2013 MNRAS <b>430</b> 1392";
+
+$PaperTitle[11]="Evolutionary constraints on the planetary origin for transition discs";
+$PaperLink[11]="http://adsabs.harvard.edu/abs/2013arXiv1305.2483C";
+$PaperAuthor[11]="Clarke, C. J. & <b> Owen, J. E.</b>";
+$PaperPage[11]="2013 MNRAS Letters <b>433</b> L69";
+
+$PaperTitle[12]="Kepler planets: a tale of evaporation";
+$PaperLink[12]="http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1303.3899";
+$PaperAuthor[12]="<b>Owen, J. E.</b> & Wu, Y.";
+$PaperPage[12]="2013 ApJ. <b>775</b> 105";
+
+$PaperTitle[13]="Testing protoplanetary disc dispersal with radio emission";
+$PaperLink[13]="http://adsabs.harvard.edu/abs/2013arXiv1307.2240O";
+$PaperAuthor[13]="<b>Owen, J. E.</b>; Scaife, A. M. M. & Ercolano B.";
+$PaperPage[13]="2013 MNRAS <b>434</b> 3378";
+
+$PaperTitle[14]="Characterising thermal sweeping: a rapid disc dispersal mechanism";
+$PaperLink[14]="http://adsabs.harvard.edu/abs/2013arXiv1309.0508O";
+$PaperAuthor[14]="<b>Owen, J. E.</b>; Hudoba de Badyn, M.; Clarke, C. J. & Robins, L";
+$PaperPage[14]="2013 MNRAS <b>436</b> 1310";
+
+$PaperTitle[15]="The Mdot-Mstar relation of pre-main-sequence stars: a
+    consequence of X-ray driven disc evolution";
+$PaperLink[15]="http://adsabs.harvard.edu/abs/2013arXiv1312.3154E";
+$PaperAuthor[15]="Ercolano, B.; Mayr, D. <b>Owen, J. E.</b>; Rosotti,
+    G. & Manara, C. F.";
+$PaperPage[15]="2014 MNRAS <b>439</b> 256";
+
+$PaperTitle[16]="Accreting Planets as Dust Dams in 'Transition' Disks";
+$PaperLink[16]="http://adsabs.harvard.edu/abs/2014ApJ...789...59O";
+$PaperAuthor[16]="<b>Owen, J. E.</b>";
+$PaperPage[16]="2014 ApJ <b>789</b> 59";
+
+$PaperTitle[17]="Snow-lines as probes of turbulent diffusion in protoplanetary discs";
+$PaperLink[17]="http://adsabs.harvard.edu/abs/2014ApJ...790L...7O";
+$PaperAuthor[17]="<b>Owen, J. E.</b>";
+$PaperPage[17]="2014 ApJ <b>790</b> L7";
+
+$PaperTitle[21]="Probing X-ray photoevaporative winds through their interaction with ionising radiation in cluster environments: the case for X-ray proplyds";
+$PaperLink[21]="http://adsabs.harvard.edu/abs/2014arXiv1411.0093C";
+$PaperAuthor[21]="Clarke, C. J. & <b>Owen, J. E.</b>";
+$PaperPage[21]="2015 MNRAS <b>446</b> 2944";
+
+$PaperTitle[18]="Magnetically controlled mass-loss from extrasolar planets in close orbits";
+$PaperLink[18]="http://adsabs.harvard.edu/abs/2014arXiv1408.3636O";
+$PaperAuthor[18]="<b>Owen, J. E.</b> & Adams, F. C.";
+$PaperPage[18]="2014 MNRAS <b>444</b> 3761";
+
+$PaperTitle[19]="Importance of thermal diffusion in the gravo-magnetic limit cycle";
+$PaperLink[19]="http://adsabs.harvard.edu/abs/2014MNRAS.445.2800O";
+$PaperAuthor[19]="<b>Owen, J. E.</b> & Armitage, P. J.";
+$PaperPage[19]="2014 MNRAS <b>445</b> 2800";
+
+$PaperTitle[20]="Astro & cosmo-chemical consequences of accretion bursts I: the D/H ratio of water";
+$PaperLink[20]="http://adsabs.harvard.edu/abs/2014arXiv1410.6844O";
+$PaperAuthor[20]="<b>Owen, J. E.</b> & Jacquet, E.";
+$PaperPage[20]="2015 MNRAS <b>446</b> 3285";
+
+$PaperTitle[22]="Torque on an exoplanet from an anisotropic evaporative wind";
+$PaperLink[22]="http://adsabs.harvard.edu/abs/2015MNRAS.452.1743T";
+$PaperAuthor[22]="Teyssandier, J.; <b>Owen, J. E.</b>; Adams, F. C.; Quillen, A. C.";
+$PaperPage[22]="2015 MNRAS <b>452</b> 1743";
+
+$PaperTitle[23]="Far-infrared signatures and inner hole sizes of protoplanetary discs undergoing inside-out dust dispersal";
+$PaperLink[23]="http://adsabs.harvard.edu/abs/2015MNRAS.452.3689E";
+$PaperAuthor[23]="Ercolano, B.; Koepferl, C.; <b>Owen, J. E.</b>; Robitaille, T.";
+$PaperPage[23]="2015 MNRAS <b>452</b> 3689";
+
+$PaperTitle[24]="Chondrule transport in protoplanetary discs";
+$PaperLink[24]="http://adsabs.harvard.edu/abs/2015MNRAS.452.4054G";
+$PaperAuthor[24]="Goldberg, A. Z.; <b>Owen, J. E.</b>; Jacquet, E.";
+$PaperPage[24]="2015 MNRAS <b>452</b> 4054";
+
+$PaperTitle[26]="UV driven evaporation of close-in planets: energy-limited; recombination-limited and photon-limited flows";
+$PaperLink[26]="http://adsabs.harvard.edu/abs/2015arXiv150407170O";
+$PaperAuthor[26]="<b>Owen, J. E.</b>; Alvarez, M. A.";
+$PaperPage[26]="2016 ApJ <b>816</b> 34";
+
+$PaperTitle[27]="Atmospheres of low-mass planets: the 'boil-off'";
+$PaperLink[27]="http://adsabs.harvard.edu/abs/2015arXiv150602049O";
+$PaperAuthor[27]="<b>Owen, J. E.</b>; Wu, Y.";
+$PaperPage[27]="2016 ApJ <b>817</b> 107";
+
+$PaperTitle[25]="The long-term evolution of photoevaporating transition discs with giant planets";
+$PaperLink[25]="http://adsabs.harvard.edu/abs/2015arXiv150904278R";
+$PaperAuthor[25]="Rosotti, G. P.; Ercolano, B.; <b>Owen, J. E.</b>";
+$PaperPage[25]="2015 MNRAS <b>454</b> 2173";
+
+$PaperTitle[28]="Hot Jupiter Breezes: Time-dependent Outflows from Extrasolar Planets";
+$PaperLink[28]="http://adsabs.harvard.edu/abs/2015arXiv151203070O";
+$PaperAuthor[28]="<b>Owen, J. E.</b> & Adams, F. C.";
+$PaperPage[28]="2016 MNRAS <b>456</b> 3053";
+
+$PaperTitle[29]="The origin and evolution of transition discs: successes, problems and open questions";
+$PaperLink[29]="http://adsabs.harvard.edu/abs/2015arXiv151206873O";
+$PaperAuthor[29]="<b>Owen, J. E.</b>";
+$PaperPage[29]="2016 PASA <b>33</b> e005, Invited Review";
+
+$PaperTitle[30]="Rapid radiative clearing of protoplanetary discs";
+$PaperLink[30]="http://adsabs.harvard.edu/abs/2015arXiv151202234H";
+$PaperAuthor[30]="Haworth, T. J.; Clarke, C. J.; <b>Owen, J. E.</b>";
+$PaperPage[30]="2016 MNRAS <b>457</b> 1905";
+
+$PaperTitle[31]="Minimalist coupled evolution model for stellar x-ray activity, rotation, mass loss, and magnetic field";
+$PaperLink[31]="http://adsabs.harvard.edu/abs/2015arXiv151105658B";
+$PaperAuthor[31]="Blackman, E. G & <b>Owen, J. E.</b>";
+$PaperPage[31]="2016 MNRAS <b>458</b> 1548";
+
+$PaperTitle[32]="The initial physical conditions of Kepler-36 b & c ";
+$PaperLink[32]="http://adsabs.harvard.edu/abs/2015arXiv151107385O";
+$PaperAuthor[32]="<b>Owen, J. E.</b> & Morton, T. D.";
+$PaperPage[32]="2016 ApJ <b>819</b> L10";
+
+$PaperTitle[33]="Habitability of Terrestrial-Mass Planets in the HZ of M Dwarfs. I. H/He-Dominated Atmospheres";
+$PaperLink[33]="http://adsabs.harvard.edu/abs/2016arXiv160105143O";
+$PaperAuthor[33]="<b> Owen, J. E.</b> & Mohanty, S.";
+$PaperPage[33]="2016 MNRAS <b>459</b> 4088";
+ 
+$PaperTitle[34]="Disk-fed giant planet formation";
+$PaperLink[34]="http://adsabs.harvard.edu/abs/2016arXiv160202781O";
+$PaperAuthor[34]="<b> Owen, J. E.</b> & Menou, K.";
+$PaperPage[34]="2016 ApJ <b>819</b> L14";
+
+$PaperTitle[36]="Water loss from Earth-sized planets in the habitable zones of
+ultracool dwarfs: Implications for the planets of TRAPPIST-1";
+$PaperLink[36]="http://adsabs.harvard.edu/abs/2016arXiv160500616B";
+$PaperAuthor[36]="Bolmont, E.; Selsis, F.; <b> Owen, J. E.</b>; Ribas, I.; Raymond, S. N.; Leconte, J. & Gillon, M.";
+$PaperPage[36]="2017 MNRAS <b>464</b> 3728";
+
+$PaperTitle[35]="Blueshifted [OI] lines from protoplanetary discs: the smoking gun of X-ray photoevaporation";
+$PaperLink[35]="http://adsabs.harvard.edu/abs/2016arXiv160504066E";
+$PaperAuthor[35]="Ercolano, B.; <b> Owen, J. E.</b>";
+$PaperPage[35]="2016 MNRAS <b>460</b> 3472";
+
+$PaperTitle[37]="Dust traps as planetary birthsites: basics and vortex
+formation";
+$PaperLink[37]="http://adsabs.harvard.edu/abs/2016arXiv160708250O";
+$PaperAuthor[37]="<b> Owen, J. E.</b>; Kollmeier, J. A.";
+$PaperPage[37]="2017 MNRAS <b>467</b> 3379";
+
+$PaperTitle[38]="Time Dependent Models of Magnetospheric Accretion onto Young Stars";
+$PaperLink[38]="http://adsabs.harvard.edu/abs/2017arXiv170305652R";
+$PaperAuthor[38]="Robinson, C. E.;
+<b> Owen, J. E.</b>; Espaillat, C. C.; Adams, F. C.";
+$PaperPage[38]="2017 ApJ <b>838</b> 100";
+
+$PaperTitle[39]="Generating large misalignments in gapped and binary discs";
+$PaperLink[39]="http://adsabs.harvard.edu/abs/2017arXiv170309250O";
+$PaperAuthor[39]="<b> Owen, J. E.</b> & Lai, D.";
+$PaperPage[39]="2017 MNRAS <b>469</b> 2834";
+
+$PaperTitle[40]="An Incipient Debris Disk in the Chamaeleon I Cloud";
+$PaperLink[40]="http://adsabs.harvard.edu/abs/2017arXiv170605032E";
+$PaperAuthor[40]="Espaillat, C. C.; Ribas, A.; McClure, M. K.; Hernandez, J.; <b> Owen, J. E.</b>; Avish, N.; Calvet, N.; Franco-Hernandez, R.";
+$PaperPage[40]="2017 ApJ <b>844</b> 60";
+
+$PaperTitle[41]="The evaporation valley in the Kepler planets";
+$PaperLink[41]="http://adsabs.harvard.edu/abs/2017arXiv170510810O";
+$PaperAuthor[41]="<b> Owen, J. E.</b> & Wu, Y.";
+$PaperPage[41]="2017 ApJ, accpt. arXiv:1705.10810";
+
+?>
